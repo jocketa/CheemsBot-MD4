@@ -55,10 +55,10 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
+global.ownername = "🦄MA SOUFIANE " //ur owner name
+global.ytname = "YT: SM7OLINAE" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Morocco, Mikness, Fez" //ur location
 
 //bot bomdy 
 global.owner = ['916909137213']
@@ -122,7 +122,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 24,
     monayawal: 1000
 }
    global.rpg = {
